@@ -2,5 +2,6 @@
 A simple web application.
 
 ### install
-    first clone
-    https://github.com/JeffwPotter/launchpad.git
+First clone the repository
+
+    git clone https://github.com/MikeSRoss/launchpad.git
